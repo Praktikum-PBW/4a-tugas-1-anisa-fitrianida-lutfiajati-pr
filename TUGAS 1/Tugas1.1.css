@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+}
+
+body {
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    border: 1px;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    text-align: justify;
+}
+
+
+a:hover {
+    color: rgb(76, 167, 170);
+}
+
+#category {
+    text-align: center;
+    font-size: small;
+}
+
+#judul {
+    text-align: center;
+    color: rgb(10, 10, 58);
+
+}
+
+#by {
+    text-align: center;
+    font-size: small;
+}
+
+#cat {
+    font-size: 30px;
+}
+
+#one {
+    text-decoration: none;
+}
+
+#two {
+    text-decoration: none;
+}
+
+#three {
+    text-decoration: none;
+}
